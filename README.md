@@ -69,7 +69,7 @@ The Discover interface displays collected security events, timestamps, and event
 
 The full investigation report, including findings, investigation summary, timeline, recommendations, and conclusion, is available here:
 
-[MYDFIR Wazuh SOC Investigation Report](documentation/MYDFIR-Wazuh-SOC-Investigation-Report.pdf)
+[Wazuh SOC Investigation Report](reports/Wazuh-Report-Findings.pdf)
 
 ## Key Takeaways
 
