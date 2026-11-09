@@ -55,13 +55,13 @@ The exercise demonstrated how endpoint file activity can be collected and review
 
 ### SOC Activity Overview
 
-![Wazuh SOC Activity Overview](screenshots/soc-activity-overview.png)
+![Wazuh SOC Activity Overview](images/Wazuh-CustomAlert.png)
 
 The dashboard provides a centralized view of Windows account changes, Linux failed authentication activity, and failed Windows logons.
 
 ### Event Investigation
 
-![Wazuh Event Investigation](screenshots/event-investigation.png)
+![Wazuh Event Investigation](images/Wazuh-Dashboard.png)
 
 The Discover interface displays collected security events, timestamps, and event descriptions for further investigation.
 
