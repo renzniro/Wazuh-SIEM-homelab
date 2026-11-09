@@ -1,6 +1,5 @@
-# Wazuh-SIEM-homelab
-A hands-on Wazuh SIEM homelab documenting security monitoring, alert investigation, and detection engineering.
 # Wazuh SIEM Homelab – SOC Investigation
+A hands-on Wazuh SIEM homelab documenting security monitoring, alert investigation, and detection engineering.
 
 ## Project Overview
 
